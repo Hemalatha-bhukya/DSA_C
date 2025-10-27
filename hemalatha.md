@@ -20,5 +20,5 @@ data -> database 2 types sql ,, nosql
 
 dsa with c 
 
-<github acc create >
+<github acc create >>
 create repo and clone in your pc and work on it and push into your git 
